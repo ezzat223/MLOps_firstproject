@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shehabhegazy/Documents/Courses/MLOps/End_to_End-Projects/MLOps_firstproject/mlruns/0/ba852444b6924d87b9189e3a16adb189/artifacts
+end_time: 1731067065957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba852444b6924d87b9189e3a16adb189
+run_name: shivering-crane-827
+run_uuid: ba852444b6924d87b9189e3a16adb189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731067061958
+status: 4
+tags: []
+user_id: shehabhegazy

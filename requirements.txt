@@ -1,0 +1,10 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+# makes all local files be treated as packages
+-e .

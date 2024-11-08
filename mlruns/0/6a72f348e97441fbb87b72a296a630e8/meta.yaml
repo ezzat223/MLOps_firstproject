@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shehabhegazy/Documents/Courses/MLOps/End_to_End-Projects/MLOps_firstproject/mlruns/0/6a72f348e97441fbb87b72a296a630e8/artifacts
+end_time: 1731066662645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a72f348e97441fbb87b72a296a630e8
+run_name: zealous-sponge-388
+run_uuid: 6a72f348e97441fbb87b72a296a630e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731066657814
+status: 4
+tags: []
+user_id: shehabhegazy
